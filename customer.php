@@ -89,11 +89,11 @@
     ?>
 
     <div class="button-container">
-        <a href="add_customer.php" class="button">Add</a>
-        <a href="delete_customer.php" class="button">Delete</a>
+        <a href="add/add_customer.php" class="button">Add</a>
+        <a href="delete/delete_customer.php" class="button">Delete</a>
         <a href="select_customer.php" class="button">Select</a>
-        <a href="edit_customer.php" class="button">Edit</a>
-        <a href="update_order_history.php" class="button">Update Order History</a>
+        <a href="edit/edit_customer.php" class="button">Edit</a>
+        <a href="update/update_order_history.php" class="button">Update Order History</a>
         <a href="main.php" class="button">Back To Main Page</a>
     </div>
 </body>

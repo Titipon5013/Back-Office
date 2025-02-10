@@ -91,9 +91,9 @@
     ?>
 
     <div class="button-container">
-        <a href="add_shipping.php" class="button">Add</a>
-        <a href="delete_shipping.php" class="button">Delete</a>
-        <a href="select_shipping.php" class="button">Select</a>
+        <a href="add/add_shipping.php" class="button">Add</a>
+        <a href="delete/delete_shipping.php" class="button">Delete</a>
+        <a href="select/select_shipping.php" class="button">Select</a>
         <a href="main.php" class="button">Back to Main Page</a>
     </div>
 </body>

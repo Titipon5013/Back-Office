@@ -96,9 +96,9 @@
     ?>
 
     <div class="button-container">
-        <a href="add_refund.php" class="button">Add</a>
-        <a href="delete_refund.php" class="button">Delete</a>
-        <a href="select_refund.php" class="button">Select</a>
+        <a href="add/add_refund.php" class="button">Add</a>
+        <a href="delete/delete_refund.php" class="button">Delete</a>
+        <a href="select/select_refund.php" class="button">Select</a>
         <a href="main.php" class="button">Back to Main Page</a>
     </div>
 </body>
